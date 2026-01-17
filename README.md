@@ -2,7 +2,6 @@
 
 Movie search and rating app using TMDB.
 
----
 
 ## Requirements
 
@@ -10,7 +9,6 @@ Movie search and rating app using TMDB.
 - Python **3.11.9**
 - npm
 
----
 
 ## Backend
 
@@ -20,7 +18,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
 
 ## Frontend
 
@@ -31,7 +28,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## Usage
 
@@ -39,7 +35,6 @@ npm run dev
 * Click a movie to see details
 * Rate movies from 1 to 5 stars
 
----
 
 ## Tech Stack
 
